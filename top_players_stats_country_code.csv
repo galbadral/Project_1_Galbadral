@@ -1,0 +1,501 @@
+names,prices,ranks,ages,countries,clubs,current_matches,goals,own_goals,assists,yellow_cards,second_yellow_cards,red_cards,sub_on,sub_off,code
+Erling Haaland,€170.00m,1,22,Norway,Manchester City,24,29,0,4,2,0,0,1,12,NO
+Kylian Mbappé,€160.00m,2,23,France,Paris Saint-Germain,25,21,0,5,2,0,0,2,9,FR
+Vinicius Junior,€120.00m,3,22,Brazil,Real Madrid,23,10,0,5,3,0,0,2,9,BR
+Phil Foden,€110.00m,4,22,England,Manchester City,23,8,0,3,2,0,0,7,9,GB
+Pedri,€100.00m,5,19,Spain,FC Barcelona,21,3,0,0,0,0,0,3,9,ES
+Jude Bellingham,€100.00m,6,19,England,Borussia Dortmund,27,9,0,4,4,0,0,2,2,GB
+Jamal Musiala,€100.00m,7,19,Germany,Bayern Munich,28,12,0,11,0,0,0,8,17,DE
+Federico Valverde,€100.00m,8,24,Uruguay,Real Madrid,22,8,0,4,1,0,0,2,5,UY
+Gavi,€90.00m,9,18,Spain,FC Barcelona,26,2,0,1,4,0,0,8,11,ES
+Bukayo Saka,€90.00m,10,21,England,Arsenal FC,26,5,0,7,4,0,0,7,13,GB
+Harry Kane,€90.00m,11,29,England,Tottenham Hotspur,28,15,0,3,5,0,0,1,4,GB
+Rafael Leão,€85.00m,12,23,Portugal,AC Milan,26,7,0,10,3,1,0,5,13,PT
+Aurélien Tchouameni,€80.00m,13,22,France,Real Madrid,24,0,0,2,1,0,0,3,9,FR
+Rodrygo,€80.00m,14,21,Brazil,Real Madrid,21,7,0,5,1,0,0,6,7,BR
+Declan Rice,€80.00m,15,23,England,West Ham United,25,1,0,2,2,0,0,3,2,GB
+Rodri,€80.00m,16,26,Spain,Manchester City,24,0,0,4,3,0,0,2,6,ES
+Dušan Vlahović,€80.00m,17,22,Serbia,Juventus FC,18,9,0,5,0,0,0,1,8,RS
+Christopher Nkunku,€80.00m,18,25,France,RB Leipzig,29,17,0,6,2,0,0,6,4,FR
+Bernardo Silva,€80.00m,19,28,Portugal,Manchester City,29,2,0,8,3,0,0,9,8,PT
+Joshua Kimmich,€80.00m,20,27,Germany,Bayern Munich,30,5,0,7,7,0,0,2,2,DE
+Mohamed Salah,€80.00m,21,30,Egypt,Liverpool FC,23,16,0,6,0,0,0,1,6,EG
+Kevin De Bruyne,€80.00m,22,31,Belgium,Manchester City,25,5,0,14,0,0,0,2,12,BE
+Antony,€75.00m,23,22,Brazil,Manchester United,16,5,0,2,1,0,0,2,9,BR
+Luis Díaz,€75.00m,24,25,Colombia,Liverpool FC,14,4,0,3,2,0,0,1,6,CO
+Lautaro Martínez,€75.00m,25,25,Argentina,Inter Milan,23,9,0,7,3,0,0,2,9,AR
+Gabriel Jesus,€75.00m,26,25,Brazil,Arsenal FC,20,5,0,7,5,0,0,4,9,BR
+Mason Mount,€75.00m,27,23,England,Chelsea FC,26,3,0,6,4,0,0,5,13,GB
+Rúben Dias,€75.00m,28,25,Portugal,Manchester City,22,1,0,0,2,0,0,4,2,PT
+Bruno Fernandes,€75.00m,29,28,Portugal,Manchester United,27,6,0,4,7,0,0,2,7,PT
+Neymar,€75.00m,30,30,Brazil,Paris Saint-Germain,22,16,0,14,8,0,0,2,7,BR
+Florian Wirtz,€70.00m,31,19,Germany,Bayer 04 Leverkusen,0,0,0,0,0,0,0,0,0,DE
+Darwin Núñez,€70.00m,32,23,Uruguay,Liverpool FC,20,10,0,2,2,0,1,8,8,UY
+Reece James,€70.00m,33,22,England,Chelsea FC,16,2,0,3,5,0,0,2,1,GB
+Alphonso Davies,€70.00m,34,22,Canada,Bayern Munich,23,3,0,5,0,0,0,1,6,CA
+Victor Osimhen,€70.00m,35,23,Nigeria,SSC Napoli,14,10,0,3,2,0,0,2,7,NG
+Matthijs de Ligt,€70.00m,36,23,Netherlands,Bayern Munich,21,1,0,0,3,0,0,5,5,NL
+Trent Alexander-Arnold,€70.00m,37,24,England,Liverpool FC,21,3,0,0,4,0,0,2,10,GB
+Kai Havertz,€70.00m,38,23,Germany,Chelsea FC,26,6,0,1,4,0,0,7,12,DE
+Nicolò Barella,€70.00m,39,25,Italy,Inter Milan,24,7,0,6,4,0,0,0,9,IT
+Jack Grealish,€70.00m,40,27,England,Manchester City,20,1,0,0,3,0,0,6,9,GB
+Leroy Sané,€70.00m,41,26,Germany,Bayern Munich,25,10,0,6,5,0,0,8,10,DE
+João Cancelo,€70.00m,42,28,Portugal,Manchester City,26,4,0,6,6,0,1,1,6,PT
+Marquinhos,€70.00m,43,28,Brazil,Paris Saint-Germain,23,2,0,0,1,0,0,2,4,BR
+Raheem Sterling,€70.00m,44,27,England,Chelsea FC,24,5,0,2,4,0,0,3,14,GB
+Heung-min Son,€70.00m,45,30,"Korea, South",Tottenham Hotspur,21,7,0,2,1,0,0,1,10,0
+Wesley Fofana,€65.00m,46,21,France,Chelsea FC,8,1,0,0,1,0,0,0,2,FR
+Achraf Hakimi,€65.00m,47,24,Morocco,Paris Saint-Germain,24,3,0,3,3,0,0,3,5,MA
+Serge Gnabry,€65.00m,48,27,Germany,Bayern Munich,28,10,0,12,0,0,0,11,10,DE
+Leon Goretzka,€65.00m,49,27,Germany,Bayern Munich,22,6,0,4,2,0,0,6,13,DE
+Gabriel Martinelli,€60.00m,50,21,Brazil,Arsenal FC,20,5,0,2,2,0,0,3,6,BR
+Nuno Mendes,€60.00m,51,20,Portugal,Paris Saint-Germain,21,2,0,4,2,0,0,5,7,PT
+Bruno Guimarães,€60.00m,52,25,Brazil,Newcastle United,14,3,0,2,1,0,0,2,7,BR
+Khvicha Kvaratskhelia,€60.00m,53,21,Georgia,SSC Napoli,23,13,0,13,0,0,0,1,17,GE
+Ronald Araújo,€60.00m,54,23,Uruguay,FC Barcelona,8,0,0,0,3,0,0,0,2,UY
+Josko Gvardiol,€60.00m,55,20,Croatia,RB Leipzig,21,1,1,0,0,0,0,6,3,HR
+Jules Koundé,€60.00m,56,24,France,FC Barcelona,13,0,0,3,0,0,0,0,7,FR
+Éder Militão,€60.00m,57,24,Brazil,Real Madrid,18,3,0,0,2,0,0,2,3,BR
+Jadon Sancho,€60.00m,58,22,England,Manchester United,14,3,0,1,0,0,0,2,10,GB
+Mikel Oyarzabal,€60.00m,59,25,Spain,Real Sociedad,0,0,0,0,0,0,0,0,0,ES
+Federico Chiesa,€60.00m,60,25,Italy,Juventus FC,4,0,0,1,0,0,0,4,0,IT
+Martin Ødegaard,€60.00m,61,23,Norway,Arsenal FC,27,6,0,3,4,0,0,4,14,NO
+Ousmane Dembélé,€60.00m,62,25,France,FC Barcelona,21,5,0,7,4,0,0,5,13,FR
+Sergej Milinković-Savić,€60.00m,63,27,Serbia,SS Lazio,26,6,0,8,8,0,0,5,7,RS
+Kingsley Coman,€60.00m,64,26,France,Bayern Munich,17,1,0,5,0,1,0,7,8,FR
+Milan Skriniar,€60.00m,65,27,Slovakia,Inter Milan,25,0,1,0,2,0,0,2,4,SK
+Sadio Mané,€60.00m,66,30,Senegal,Bayern Munich,25,12,0,4,1,0,0,2,13,SN
+Thibaut Courtois,€60.00m,67,30,Belgium,Real Madrid,18,0,0,0,0,0,0,0,0,BE
+Cristian Romero,€55.00m,68,24,Argentina,Tottenham Hotspur,14,0,0,0,2,0,0,1,2,AR
+Diogo Jota,€55.00m,69,25,Portugal,Liverpool FC,13,1,0,7,1,0,0,6,7,PT
+Theo Hernández,€55.00m,70,25,France,AC Milan,20,2,0,4,5,0,0,0,4,FR
+Alessandro Bastoni,€55.00m,71,23,Italy,Inter Milan,21,1,0,3,5,0,0,3,8,IT
+James Maddison,€55.00m,72,25,England,Leicester City,14,7,0,4,5,0,0,1,2,GB
+Marc Cucurella,€55.00m,73,24,Spain,Chelsea FC,18,0,0,2,2,0,0,4,6,ES
+Marcus Rashford,€55.00m,74,25,England,Manchester United,19,8,0,3,1,0,0,4,6,GB
+Andrew Robertson,€55.00m,75,28,Scotland,Liverpool FC,19,0,0,8,1,0,0,3,7,0
+Fabinho,€55.00m,76,29,Brazil,Liverpool FC,22,0,0,0,2,0,0,5,4,BR
+Romelu Lukaku,€55.00m,77,29,Belgium,Inter Milan,6,2,0,1,0,0,0,2,3,BE
+David Alaba,€55.00m,78,30,Austria,Real Madrid,26,2,0,3,3,0,0,4,7,AT
+Eduardo Camavinga,€50.00m,79,20,France,Real Madrid,21,0,0,0,1,0,0,13,7,FR
+William Saliba,€50.00m,80,21,France,Arsenal FC,22,2,1,1,4,0,0,2,3,FR
+Lisandro Martínez,€50.00m,81,24,Argentina,Manchester United,24,0,0,0,7,0,0,3,4,AR
+Ansu Fati,€50.00m,82,20,Spain,FC Barcelona,21,4,0,3,0,0,0,15,5,ES
+João Félix,€50.00m,83,23,Portugal,Atlético de Madrid,20,4,0,3,6,0,0,10,7,PT
+Dejan Kulusevski,€50.00m,84,22,Sweden,Tottenham Hotspur,17,2,0,8,5,0,0,5,7,SE
+Raphinha,€50.00m,85,25,Brazil,FC Barcelona,20,4,0,6,1,0,0,8,11,BR
+Pau Torres,€50.00m,86,25,Spain,Villarreal CF,21,0,0,0,5,0,0,3,0,ES
+Sandro Tonali,€50.00m,87,22,Italy,AC Milan,23,1,0,5,7,0,0,3,7,IT
+Moussa Diaby,€50.00m,88,23,France,Bayer 04 Leverkusen,25,8,0,4,2,0,0,1,11,FR
+Richarlison,€50.00m,89,25,Brazil,Tottenham Hotspur,17,5,0,4,3,0,0,6,8,BR
+Alexander Isak,€50.00m,90,23,Sweden,Newcastle United,8,3,0,0,1,0,0,0,7,SE
+Dayot Upamecano,€50.00m,91,24,France,Bayern Munich,24,0,1,0,2,0,0,1,6,FR
+Mikel Merino,€50.00m,92,26,Spain,Real Sociedad,20,2,0,6,5,0,0,2,8,ES
+Frenkie de Jong,€50.00m,93,25,Netherlands,FC Barcelona,22,2,0,2,1,0,0,7,3,NL
+Gianluigi Donnarumma,€50.00m,94,23,Italy,Paris Saint-Germain,28,0,0,0,1,0,0,0,0,IT
+Fikayo Tomori,€50.00m,95,24,England,AC Milan,21,1,0,0,3,0,1,1,2,GB
+Lucas Hernández,€50.00m,96,26,France,Bayern Munich,12,1,0,1,2,0,0,1,5,FR
+Virgil van Dijk,€50.00m,97,31,Netherlands,Liverpool FC,24,2,0,0,3,0,0,0,0,NL
+Alisson,€50.00m,98,30,Brazil,Liverpool FC,22,0,0,1,0,0,0,0,0,BR
+Marco Verratti,€50.00m,99,30,Italy,Paris Saint-Germain,21,0,0,1,10,0,0,0,14,IT
+Lionel Messi,€50.00m,100,35,Argentina,Paris Saint-Germain,22,17,0,15,0,0,0,1,7,AR
+Casemiro,€50.00m,101,30,Brazil,Manchester United,22,1,0,3,3,0,0,7,5,BR
+Matheus Nunes,€45.00m,102,24,Portugal,Wolverhampton Wanderers,19,1,0,2,3,0,0,5,6,PT
+Jonathan David,€45.00m,103,22,Canada,LOSC Lille,19,11,0,4,4,0,0,1,5,CA
+Vitinha,€45.00m,104,22,Portugal,Paris Saint-Germain,24,0,0,0,3,0,0,6,15,PT
+Lucas Paquetá,€45.00m,105,25,Brazil,West Ham United,16,0,0,3,3,0,0,3,12,BR
+Cody Gakpo,€45.00m,106,23,Netherlands,PSV Eindhoven,29,15,0,18,2,0,0,2,10,NL
+Jurrien Timber,€45.00m,107,21,Netherlands,Ajax Amsterdam,25,0,0,2,3,0,0,0,7,NL
+Kalvin Phillips,€45.00m,108,26,England,Manchester City,8,0,0,0,0,0,0,6,1,GB
+Fabián Ruiz,€45.00m,109,26,Spain,Paris Saint-Germain,12,0,0,0,1,0,0,5,5,ES
+Ben White,€45.00m,110,25,England,Arsenal FC,19,0,0,2,3,0,0,3,10,GB
+Tammy Abraham,€45.00m,111,25,England,AS Roma,21,4,0,2,0,0,0,4,10,GB
+Lorenzo Pellegrini,€45.00m,112,26,Italy,AS Roma,21,6,0,7,3,0,0,0,11,IT
+Tomas Soucek,€45.00m,113,27,Czech Republic,West Ham United,28,2,0,3,3,0,0,3,4,CZ
+Ivan Toney,€45.00m,114,26,England,Brentford FC,16,11,0,3,5,0,0,1,0,GB
+Ederson,€45.00m,115,29,Brazil,Manchester City,19,0,0,1,0,0,0,0,0,BR
+Pierre-Emile Höjbjerg,€45.00m,116,27,Denmark,Tottenham Hotspur,27,5,0,5,4,0,0,0,3,DK
+Robert Lewandowski,€45.00m,117,34,Poland,FC Barcelona,24,19,0,6,0,1,0,1,6,PL
+Jarrod Bowen,€42.00m,118,25,England,West Ham United,25,5,0,0,0,0,0,5,7,GB
+Bremer,€40.00m,119,25,Brazil,Juventus FC,17,1,0,0,4,0,0,1,2,BR
+Anthony Gordon,€40.00m,120,21,England,Everton FC,17,3,0,1,7,0,0,4,7,GB
+Benoît Badiashile,€40.00m,121,21,France,AS Monaco,18,2,0,0,5,0,0,2,1,FR
+Gabriel Magalhães,€40.00m,122,24,Brazil,Arsenal FC,20,2,0,0,3,0,0,2,0,BR
+Martín Zubimendi,€40.00m,123,23,Spain,Real Sociedad,16,1,0,2,4,0,0,1,1,ES
+Rodrigo Bentancur,€40.00m,124,25,Uruguay,Tottenham Hotspur,23,5,0,2,9,0,0,2,10,UY
+Ismaël Bennacer,€40.00m,125,24,Algeria,AC Milan,25,1,0,1,2,0,0,4,10,DZ
+Dani Olmo,€40.00m,126,24,Spain,RB Leipzig,19,3,0,4,0,0,0,10,7,ES
+Ferland Mendy,€40.00m,127,27,France,Real Madrid,19,0,0,1,3,0,0,1,9,FR
+Presnel Kimpembe,€40.00m,128,27,France,Paris Saint-Germain,13,0,0,0,4,0,0,2,1,FR
+Wilfred Ndidi,€40.00m,129,25,Nigeria,Leicester City,12,0,0,0,2,0,0,3,4,NG
+Allan Saint-Maximin,€40.00m,130,25,France,Newcastle United,8,1,0,3,1,0,0,3,3,FR
+Ángel Correa,€40.00m,131,27,Argentina,Atlético de Madrid,22,4,0,1,0,0,0,14,8,AR
+José María Giménez,€40.00m,132,27,Uruguay,Atlético de Madrid,15,0,0,0,7,0,0,2,2,UY
+Youri Tielemans,€40.00m,133,25,Belgium,Leicester City,23,4,0,3,1,0,0,4,9,BE
+Rúben Neves,€40.00m,134,25,Portugal,Wolverhampton Wanderers,22,4,0,0,6,0,0,2,5,PT
+José Gayà,€40.00m,135,27,Spain,Valencia CF,11,0,0,3,1,0,0,0,3,ES
+Nabil Fekir,€40.00m,136,29,France,Real Betis Balompié,11,3,0,2,4,0,1,4,5,FR
+Piotr Zielinski,€40.00m,137,28,Poland,SSC Napoli,27,7,0,7,1,0,0,6,15,PL
+Raphaël Varane,€40.00m,138,29,France,Manchester United,13,0,0,0,1,0,0,2,3,FR
+Jan Oblak,€40.00m,139,29,Slovenia,Atlético de Madrid,25,0,0,0,1,0,0,0,2,SI
+Antonio Rüdiger,€40.00m,140,29,Germany,Real Madrid,21,2,0,0,3,0,0,7,1,DE
+Mateo Kovacic,€40.00m,141,28,Croatia,Chelsea FC,24,1,0,1,3,0,0,8,11,HR
+Moisés Caicedo,€38.00m,142,21,Ecuador,Brighton & Hove Albion,16,1,0,0,5,0,0,0,4,EC
+Yéremy Pino,€38.00m,143,20,Spain,Villarreal CF,22,1,0,2,3,0,0,10,8,ES
+Amine Gouiri,€38.00m,144,22,France,Stade Rennais FC,22,9,0,5,1,1,0,4,14,FR
+Emile Smith Rowe,€38.00m,145,22,England,Arsenal FC,4,0,0,0,0,0,0,4,0,GB
+Sven Botman,€38.00m,146,22,Netherlands,Newcastle United,15,0,0,0,0,0,0,3,2,NL
+Frank Anguissa,€38.00m,147,27,Cameroon,SSC Napoli,19,3,0,6,1,0,0,0,5,CM
+Ben Chilwell,€38.00m,148,25,England,Chelsea FC,14,1,0,2,1,0,0,5,3,GB
+Christian Pulisic,€38.00m,149,24,United States,Chelsea FC,20,1,0,2,1,0,0,13,5,US
+Patrik Schick,€38.00m,150,26,Czech Republic,Bayer 04 Leverkusen,19,4,0,0,0,0,0,1,6,CZ
+Thomas Partey,€38.00m,151,29,Ghana,Arsenal FC,15,2,0,0,2,0,0,4,2,GH
+Aymeric Laporte,€38.00m,152,28,Spain,Manchester City,9,0,0,1,0,0,0,1,3,ES
+Enzo Fernández,€35.00m,153,21,Argentina,SL Benfica,27,3,0,5,6,0,0,3,9,AR
+Pierre Kalulu,€35.00m,154,22,France,AC Milan,23,0,0,0,1,0,0,6,2,FR
+Harvey Elliott,€35.00m,155,19,England,Liverpool FC,24,3,0,1,0,0,0,9,11,GB
+Giovanni Reyna,€35.00m,156,20,United States,Borussia Dortmund,17,2,0,2,1,0,0,10,8,US
+Min-jae Kim,€35.00m,157,26,"Korea, South",SSC Napoli,22,2,0,0,4,0,0,0,0,0
+Karim Adeyemi,€35.00m,158,20,Germany,Borussia Dortmund,19,2,0,0,3,0,1,7,11,DE
+Amadou Onana,€35.00m,159,21,Belgium,Everton FC,17,0,0,1,4,0,0,3,6,BE
+Dominik Szoboszlai,€35.00m,160,22,Hungary,RB Leipzig,29,3,0,13,0,0,1,2,16,HU
+Douglas Luiz,€35.00m,161,24,Brazil,Aston Villa,16,2,0,2,3,0,1,4,3,BR
+Martin Terrier,€35.00m,162,25,France,Stade Rennais FC,20,11,0,4,0,0,0,1,12,FR
+Giacomo Raspadori,€35.00m,163,22,Italy,SSC Napoli,23,7,0,3,2,0,0,7,14,IT
+Edson Álvarez,€35.00m,164,25,Mexico,Ajax Amsterdam,20,1,0,2,9,0,0,1,5,MX
+Ferran Torres,€35.00m,165,22,Spain,FC Barcelona,25,5,0,2,5,0,0,14,8,ES
+Marc Guéhi,€35.00m,166,22,England,Crystal Palace,18,0,1,0,5,0,0,1,0,GB
+Ibrahim Sangaré,€35.00m,167,24,Cote d'Ivoire,PSV Eindhoven,24,6,0,1,4,0,0,2,6,0
+Carlos Soler,€35.00m,168,25,Spain,Paris Saint-Germain,21,5,0,2,0,0,0,9,9,ES
+Diogo Costa,€35.00m,169,23,Portugal,FC Porto,23,0,1,1,1,0,0,0,0,PT
+Ibrahima Konaté,€35.00m,170,23,France,Liverpool FC,6,0,0,0,1,0,0,1,1,FR
+Arnaut Danjuma,€35.00m,171,25,Netherlands,Villarreal CF,14,4,0,0,0,0,0,5,7,NL
+Benjamin Pavard,€35.00m,172,26,France,Bayern Munich,25,4,0,0,3,0,0,5,4,FR
+Robin Le Normand,€35.00m,173,26,France,Real Sociedad,13,0,0,0,3,0,0,2,1,FR
+Franck Kessié,€35.00m,174,25,Cote d'Ivoire,FC Barcelona,15,2,0,0,4,0,0,8,4,0
+Marcos Llorente,€35.00m,175,27,Spain,Atlético de Madrid,16,1,0,1,1,0,0,3,5,ES
+Rodrigo de Paul,€35.00m,176,28,Argentina,Atlético de Madrid,21,2,0,3,3,0,0,9,9,AR
+Mike Maignan,€35.00m,177,27,France,AC Milan,12,0,0,0,0,0,0,0,1,FR
+James Ward-Prowse,€35.00m,178,28,England,Southampton FC,17,2,0,2,3,0,0,0,0,GB
+Sébastien Haller,€35.00m,179,28,Cote d'Ivoire,Borussia Dortmund,0,0,0,0,0,0,0,0,0,0
+Gerard Moreno,€35.00m,180,30,Spain,Villarreal CF,10,5,0,1,2,0,0,4,4,ES
+Niklas Süle,€35.00m,181,27,Germany,Borussia Dortmund,25,1,0,2,1,0,0,4,5,DE
+Marcelo Brozovic,€35.00m,182,30,Croatia,Inter Milan,19,2,0,0,6,0,0,3,6,HR
+Hakan Calhanoglu,€35.00m,183,28,Turkey,Inter Milan,26,6,0,7,3,0,0,3,17,TR
+Paul Pogba,€35.00m,184,29,France,Juventus FC,0,0,0,0,0,0,0,0,0,FR
+Jorginho,€35.00m,185,30,Italy,Chelsea FC,21,3,0,0,3,0,0,4,8,IT
+Kalidou Koulibaly,€35.00m,186,31,Senegal,Chelsea FC,16,1,0,0,5,1,0,1,2,SN
+Karim Benzema,€35.00m,187,34,France,Real Madrid,15,7,0,1,0,0,0,1,2,FR
+Nico Schlotterbeck,€33.00m,188,22,Germany,Borussia Dortmund,27,1,0,3,6,0,0,3,2,DE
+Julián Álvarez,€32.00m,189,22,Argentina,Manchester City,23,9,0,2,1,0,0,13,4,AR
+Alexis Mac Allister,€32.00m,190,23,Argentina,Brighton & Hove Albion,17,5,1,1,4,0,0,1,3,AR
+Conor Gallagher,€32.00m,191,22,England,Chelsea FC,21,2,0,2,3,1,0,10,9,GB
+Pedro Neto,€32.00m,192,22,Portugal,Wolverhampton Wanderers,9,0,0,0,1,0,0,1,6,PT
+Yves Bissouma,€32.00m,193,26,Mali,Tottenham Hotspur,19,0,0,0,4,0,0,12,4,ML
+Robert Sánchez,€32.00m,194,25,Spain,Brighton & Hove Albion,15,0,0,0,0,0,0,0,1,ES
+Harvey Barnes,€32.00m,195,24,England,Leicester City,15,6,0,1,0,0,0,0,5,GB
+Evan Ndicka,€32.00m,196,23,France,Eintracht Frankfurt,23,0,1,1,3,0,0,0,1,FR
+Diogo Dalot,€32.00m,197,23,Portugal,Manchester United,22,3,1,3,6,0,0,0,4,PT
+Joelinton,€32.00m,198,26,Brazil,Newcastle United,15,1,0,1,5,0,0,2,1,BR
+Ollie Watkins,€32.00m,199,26,England,Aston Villa,16,3,0,3,1,0,0,1,3,GB
+Joachim Andersen,€32.00m,200,26,Denmark,Crystal Palace,19,1,0,0,3,0,0,0,1,DK
+Gonçalo Guedes,€32.00m,201,25,Portugal,Wolverhampton Wanderers,17,2,0,1,1,0,0,7,9,PT
+Oleksandr Zinchenko,€32.00m,202,25,Ukraine,Arsenal FC,11,0,0,1,2,0,0,2,7,UA
+Kurt Zouma,€32.00m,203,28,France,West Ham United,15,1,0,0,0,0,0,1,1,FR
+Wilfried Zaha,€32.00m,204,30,Cote d'Ivoire,Crystal Palace,15,6,0,2,4,0,0,1,3,0
+Armando Broja,€30.00m,205,21,Albania,Chelsea FC,22,2,0,1,0,0,0,16,4,AL
+Edmond Tapsoba,€30.00m,206,23,Burkina Faso,Bayer 04 Leverkusen,22,0,0,0,2,0,0,1,4,BF
+Cheick Doucouré,€30.00m,207,22,Mali,Crystal Palace,14,0,0,1,4,0,0,0,9,ML
+Fábio Vieira,€30.00m,208,22,Portugal,Arsenal FC,16,2,0,4,0,0,0,7,7,PT
+Randal Kolo Muani,€30.00m,209,23,France,Eintracht Frankfurt,25,8,0,11,2,1,0,5,14,FR
+Eberechi Eze,€30.00m,210,24,England,Crystal Palace,15,2,0,3,0,0,0,1,9,GB
+Ryan Gravenberch,€30.00m,211,20,Netherlands,Bayern Munich,19,1,0,1,1,0,0,15,2,NL
+Emerson Royal,€30.00m,212,23,Brazil,Tottenham Hotspur,18,0,0,1,2,0,1,3,6,BR
+Youssoufa Moukoko,€30.00m,213,18,Germany,Borussia Dortmund,24,6,0,6,0,0,0,10,8,DE
+Charles De Ketelaere,€30.00m,214,21,Belgium,AC Milan,22,0,0,1,3,0,0,14,8,BE
+Aaron Ramsdale,€30.00m,215,24,England,Arsenal FC,18,0,0,0,0,0,0,0,0,GB
+Pedro Gonçalves,€30.00m,216,24,Portugal,Sporting CP,19,7,0,4,4,1,0,1,4,PT
+Brenden Aaronson,€30.00m,217,22,United States,Leeds United,17,1,0,3,2,0,0,2,8,US
+Nicolò Zaniolo,€30.00m,218,23,Italy,AS Roma,15,2,0,3,4,0,1,2,8,IT
+Teun Koopmeiners,€30.00m,219,24,Netherlands,Atalanta BC,20,5,0,1,4,0,0,3,2,NL
+Daichi Kamada,€30.00m,220,26,Japan,Eintracht Frankfurt,23,13,0,4,2,0,0,3,9,JP
+Joe Willock,€30.00m,221,23,England,Newcastle United,17,2,0,2,0,0,0,3,9,GB
+Diego Carlos,€30.00m,222,29,Brazil,Aston Villa,2,0,0,0,0,0,0,0,1,BR
+Marcus Thuram,€30.00m,223,25,France,Borussia Mönchengladbach,17,13,0,4,2,0,0,0,1,FR
+Scott McTominay,€30.00m,224,25,Scotland,Manchester United,24,2,0,0,9,0,0,11,4,0
+Gianluca Scamacca,€30.00m,225,23,Italy,West Ham United,26,6,0,0,4,0,0,10,14,IT
+Brais Méndez,€30.00m,226,25,Spain,Real Sociedad,21,8,0,6,6,0,0,3,9,ES
+Dominic Calvert-Lewin,€30.00m,227,25,England,Everton FC,6,1,0,0,1,0,0,2,3,GB
+Kieran Tierney,€30.00m,228,25,Scotland,Arsenal FC,22,1,0,1,2,0,0,9,7,0
+Manuel Akanji,€30.00m,229,27,Switzerland,Manchester City,16,1,0,2,4,0,0,1,3,CH
+Manuel Locatelli,€30.00m,230,24,Italy,Juventus FC,19,0,0,0,5,0,0,4,9,IT
+Joe Gomez,€30.00m,231,25,England,Liverpool FC,17,0,0,1,3,0,0,4,1,GB
+Otávio,€30.00m,232,27,Portugal,FC Porto,22,1,0,6,1,0,0,3,11,PT
+N'Golo Kanté,€30.00m,233,31,France,Chelsea FC,3,0,0,0,0,0,0,0,1,FR
+Paulo Dybala,€30.00m,234,29,Argentina,AS Roma,12,7,0,2,2,0,0,2,8,AR
+Thomas Lemar,€30.00m,235,27,France,Atlético de Madrid,11,0,0,2,0,0,0,5,6,FR
+Andreas Christensen,€30.00m,236,26,Denmark,FC Barcelona,12,0,0,0,1,0,0,1,4,DK
+John McGinn,€30.00m,237,28,Scotland,Aston Villa,24,3,0,2,4,0,0,3,8,0
+Stanislav Lobotka,€30.00m,238,27,Slovakia,SSC Napoli,26,1,0,1,1,0,0,2,11,SK
+John Stones,€30.00m,239,28,England,Manchester City,15,1,1,2,1,1,0,2,2,GB
+Seko Fofana,€30.00m,240,27,Cote d'Ivoire,RC Lens,15,5,0,2,0,0,0,1,4,0
+Harry Maguire,€30.00m,241,29,England,Manchester United,15,0,0,0,6,0,0,5,0,GB
+Nathan Aké,€30.00m,242,27,Netherlands,Manchester City,17,0,0,0,1,0,0,3,3,NL
+Eric Dier,€30.00m,243,28,England,Tottenham Hotspur,24,2,0,0,4,0,0,1,2,GB
+Riyad Mahrez,€30.00m,244,31,Algeria,Manchester City,21,6,0,2,1,0,0,7,9,DZ
+Leandro Trossard,€30.00m,245,27,Belgium,Brighton & Hove Albion,20,9,0,3,1,0,0,5,10,BE
+Yannick Carrasco,€30.00m,246,29,Belgium,Atlético de Madrid,25,2,0,4,3,0,0,10,11,BE
+Marc-André ter Stegen,€30.00m,247,30,Germany,FC Barcelona,21,0,0,0,0,0,0,0,0,DE
+Tyrick Mitchell,€28.00m,248,23,England,Crystal Palace,16,0,0,2,2,0,0,3,5,GB
+Mohamed Simakan,€28.00m,249,22,France,RB Leipzig,19,3,0,5,3,0,0,1,12,FR
+Jesper Lindström,€28.00m,250,22,Denmark,Eintracht Frankfurt,23,8,0,2,1,0,0,3,19,DK
+Jacob Ramsey,€28.00m,251,21,England,Aston Villa,19,2,1,3,4,0,0,5,10,GB
+Tanguy Ndombélé,€28.00m,252,25,France,SSC Napoli,18,1,0,1,2,0,0,10,7,FR
+Bryan Mbeumo,€28.00m,253,23,Cameroon,Brentford FC,19,3,0,1,3,0,0,1,14,CM
+Guido Rodríguez,€28.00m,254,28,Argentina,Real Betis Balompié,19,1,0,0,2,0,0,4,4,AR
+Denzel Dumfries,€28.00m,255,26,Netherlands,Inter Milan,25,4,0,4,3,0,0,4,10,NL
+Emiliano Buendía,€28.00m,256,25,Argentina,Aston Villa,17,1,0,1,0,0,0,10,6,AR
+Hirving Lozano,€28.00m,257,27,Mexico,SSC Napoli,21,5,0,3,1,0,0,10,8,MX
+Timothy Castagne,€28.00m,258,26,Belgium,Leicester City,20,1,0,3,1,0,0,2,4,BE
+João Palhinha,€28.00m,259,27,Portugal,Fulham FC,17,2,0,0,5,0,0,3,2,PT
+Konrad Laimer,€28.00m,260,25,Austria,RB Leipzig,10,0,0,1,2,0,0,1,3,AT
+Julian Brandt,€28.00m,261,26,Germany,Borussia Dortmund,23,5,0,3,0,0,0,6,7,DE
+Luke Shaw,€28.00m,262,27,England,Manchester United,17,1,0,2,4,0,0,6,3,GB
+Roberto Firmino,€28.00m,263,31,Brazil,Liverpool FC,21,9,0,4,0,0,0,5,12,BR
+Jordan Pickford,€28.00m,264,28,England,Everton FC,16,0,0,1,2,0,0,0,0,GB
+Granit Xhaka,€28.00m,265,30,Switzerland,Arsenal FC,27,4,0,3,6,0,0,2,4,CH
+Aleksandar Mitrović,€28.00m,266,28,Serbia,Fulham FC,17,15,0,0,6,0,0,0,8,RS
+Roger Ibañez,€27.00m,267,23,Brazil,AS Roma,21,1,0,0,4,0,0,1,1,BR
+Orkun Kökcü,€27.00m,268,21,Turkey,Feyenoord Rotterdam,23,7,0,3,4,0,0,2,9,TR
+Steven Bergwijn,€27.00m,269,25,Netherlands,Ajax Amsterdam,27,13,0,3,2,0,0,3,13,NL
+David Raum,€26.00m,270,24,Germany,RB Leipzig,29,0,0,2,3,0,0,4,9,DE
+Danilo,€25.00m,271,21,Brazil,Sociedade Esportiva Palmeiras,0,0,0,0,0,0,0,0,0,BR
+Hugo Ekitiké,€25.00m,272,20,France,Paris Saint-Germain,12,1,0,2,0,0,0,10,2,FR
+Nico Williams,€25.00m,273,20,Spain,Athletic Bilbao,18,5,0,5,0,0,0,4,10,ES
+Roméo Lavia,€25.00m,274,18,Belgium,Southampton FC,8,1,0,0,2,0,0,1,3,BE
+Manu Koné,€25.00m,275,21,France,Borussia Mönchengladbach,17,1,0,1,5,0,0,1,7,FR
+Arnaud Kalimuendo,€25.00m,276,20,France,Stade Rennais FC,17,3,0,3,0,0,0,6,11,FR
+Anthony Elanga,€25.00m,277,20,Sweden,Manchester United,20,1,0,1,0,0,0,12,8,SE
+Youssouf Fofana,€25.00m,278,23,France,AS Monaco,24,1,0,0,2,0,1,1,3,FR
+Pedro Porro,€25.00m,279,23,Spain,Sporting CP,16,0,0,5,4,0,1,3,6,ES
+Mohamed Camara,€25.00m,280,22,Mali,AS Monaco,18,0,0,0,4,0,1,2,5,ML
+Tino Livramento,€25.00m,281,20,England,Southampton FC,0,0,0,0,0,0,0,0,0,GB
+Giorgi Mamardashvili,€25.00m,282,22,Georgia,Valencia CF,18,0,0,0,1,0,0,1,0,GE
+Hugo Guillamón,€25.00m,283,22,Spain,Valencia CF,14,1,1,4,5,0,0,2,6,ES
+Jeremie Frimpong,€25.00m,284,21,Netherlands,Bayer 04 Leverkusen,23,5,0,3,1,1,0,2,11,NL
+Juan Foyth,€25.00m,285,24,Argentina,Villarreal CF,7,0,0,2,0,0,0,2,3,AR
+Mattéo Guendouzi,€25.00m,286,23,France,Olympique Marseille,23,3,1,2,4,0,0,4,8,FR
+Khéphren Thuram,€25.00m,287,21,France,OGC Nice,25,0,0,4,2,0,0,6,10,FR
+Edouard Mendy,€25.00m,288,30,Senegal,Chelsea FC,11,0,0,0,1,0,0,1,0,SN
+Morgan Gibbs-White,€25.00m,289,22,England,Nottingham Forest,16,2,0,2,2,0,0,2,4,GB
+Jack Harrison,€25.00m,290,26,England,Leeds United,14,1,0,3,2,0,0,1,8,GB
+James Justin,€25.00m,291,24,England,Leicester City,16,1,0,1,0,0,0,0,4,GB
+Maxence Caqueret,€25.00m,292,22,France,Olympique Lyon,16,0,0,1,1,0,0,3,6,FR
+Boubacar Kamara,€25.00m,293,22,France,Aston Villa,14,0,0,0,2,0,0,2,5,FR
+Callum Hudson-Odoi,€25.00m,294,22,England,Bayer 04 Leverkusen,15,1,0,1,0,0,0,4,11,GB
+Leon Bailey,€25.00m,295,25,Jamaica,Aston Villa,20,5,0,2,5,0,0,6,9,JM
+Axel Disasi,€25.00m,296,24,France,AS Monaco,23,3,0,4,2,0,0,0,0,FR
+Tetê,€25.00m,297,22,Brazil,Olympique Lyon,13,5,0,3,2,0,0,2,9,BR
+Nayef Aguerd,€25.00m,298,26,Morocco,West Ham United,5,0,0,0,1,0,0,1,1,MA
+Pablo Fornals,€25.00m,299,26,Spain,West Ham United,23,4,0,1,0,0,0,10,11,ES
+Noah Okafor,€25.00m,300,22,Switzerland,Red Bull Salzburg,27,11,0,2,2,0,0,12,15,CH
+Boubakary Soumaré,€25.00m,301,23,France,Leicester City,12,0,0,0,3,0,0,2,9,FR
+Davinson Sánchez,€25.00m,302,26,Colombia,Tottenham Hotspur,14,1,0,0,2,0,0,5,3,CO
+Kyle Walker-Peters,€25.00m,303,25,England,Southampton FC,11,1,0,0,2,0,0,0,3,GB
+Merih Demiral,€25.00m,304,24,Turkey,Atalanta BC,15,2,0,0,4,0,0,1,1,TR
+Noussair Mazraoui,€25.00m,305,25,Morocco,Bayern Munich,21,0,0,3,2,0,0,8,5,MA
+Takehiro Tomiyasu,€25.00m,306,24,Japan,Arsenal FC,19,0,0,1,1,0,0,9,5,JP
+Marcus Edwards,€25.00m,307,23,England,Sporting CP,20,7,0,6,2,0,0,5,12,GB
+Marco Asensio,€25.00m,308,26,Spain,Real Madrid,20,3,0,7,0,0,0,14,2,ES
+Borja Iglesias,€25.00m,309,29,Spain,Real Betis Balompié,18,8,0,3,0,0,1,6,7,ES
+Viktor Tsygankov,€25.00m,310,25,Ukraine,Dynamo Kyiv,25,8,0,6,4,0,0,3,6,UA
+Davide Calabria,€25.00m,311,25,Italy,AC Milan,11,0,0,2,3,0,0,0,5,IT
+Unai Simón,€25.00m,312,25,Spain,Athletic Bilbao,20,0,0,0,1,0,0,0,0,ES
+Renato Sanches,€25.00m,313,25,Portugal,Paris Saint-Germain,13,2,0,0,0,0,0,10,4,PT
+Gregor Kobel,€25.00m,314,24,Switzerland,Borussia Dortmund,17,0,0,0,0,0,0,0,1,CH
+Amir Rrahmani,€25.00m,315,28,Kosovo,SSC Napoli,16,0,0,0,3,0,0,0,2,0
+Iñaki Williams,€25.00m,316,28,Ghana,Athletic Bilbao,18,5,0,1,0,0,0,2,11,GH
+Tyrone Mings,€25.00m,317,29,England,Aston Villa,15,0,1,0,3,0,0,1,0,GB
+Enes Ünal,€25.00m,318,25,Turkey,Getafe CF,19,6,0,3,3,0,0,1,10,TR
+Alex Iwobi,€25.00m,319,26,Nigeria,Everton FC,19,1,0,6,1,0,0,1,1,NG
+Reinildo Mandava,€25.00m,320,28,Mozambique,Atlético de Madrid,21,0,0,0,4,0,0,0,2,MZ
+Álex Remiro,€25.00m,321,27,Spain,Real Sociedad,20,0,0,0,0,0,0,0,0,ES
+Mario Pasalic,€25.00m,322,27,Croatia,Atalanta BC,21,2,0,2,1,0,0,5,14,HR
+Ruben Loftus-Cheek,€25.00m,323,26,England,Chelsea FC,20,0,1,1,1,0,0,6,6,GB
+Federico Dimarco,€25.00m,324,25,Italy,Inter Milan,26,4,0,4,1,0,0,6,16,IT
+Timo Werner,€25.00m,325,26,Germany,RB Leipzig,22,11,0,6,2,0,0,5,12,DE
+Giovanni Di Lorenzo,€25.00m,326,29,Italy,SSC Napoli,25,2,0,3,2,0,0,0,4,IT
+Álvaro Morata,€25.00m,327,30,Spain,Atlético de Madrid,24,7,0,1,3,0,0,4,18,ES
+Antoine Griezmann,€25.00m,328,31,France,Atlético de Madrid,27,6,0,6,0,0,0,11,8,FR
+Emiliano Martínez,€25.00m,329,30,Argentina,Aston Villa,18,0,0,0,2,0,0,0,1,AR
+Christian Eriksen,€25.00m,330,30,Denmark,Manchester United,26,2,0,7,1,0,0,4,8,DK
+Ilkay Gündogan,€25.00m,331,32,Germany,Manchester City,27,4,0,2,1,0,0,6,12,DE
+Gonçalo Ramos,€24.00m,332,21,Portugal,SL Benfica,22,15,0,7,3,1,0,1,18,PT
+André Silva,€24.00m,333,27,Portugal,RB Leipzig,27,7,0,7,1,0,0,8,11,PT
+Filip Kostić,€24.00m,334,30,Serbia,Juventus FC,28,1,0,8,3,0,0,5,15,RS
+Gonçalo Inácio,€23.00m,335,21,Portugal,Sporting CP,20,0,0,2,4,0,0,1,2,PT
+Nicolás González,€23.00m,336,24,Argentina,ACF Fiorentina,10,4,0,0,0,0,0,6,2,AR
+Eljif Elmas,€23.00m,337,23,North Macedonia,SSC Napoli,28,3,0,1,4,0,0,15,9,0
+Rafa Silva,€23.00m,338,29,Portugal,SL Benfica,23,11,0,5,5,0,0,0,16,PT
+Domenico Berardi,€23.00m,339,28,Italy,US Sassuolo,8,2,0,0,1,0,0,3,2,IT
+Ciro Immobile,€23.00m,340,32,Italy,SS Lazio,15,7,0,5,3,0,0,1,5,IT
+Evanilson,€22.00m,341,23,Brazil,FC Porto,22,8,0,6,1,0,0,4,18,BR
+Piero Hincapié,€22.00m,342,20,Ecuador,Bayer 04 Leverkusen,19,1,0,0,6,2,0,2,3,EC
+Rayan Aït-Nouri,€22.00m,343,21,France,Wolverhampton Wanderers,12,0,1,1,1,0,0,3,3,FR
+Michael Olise,€22.00m,344,20,France,Crystal Palace,15,1,0,2,1,0,0,5,7,FR
+Destiny Udogie,€22.00m,345,19,Italy,Udinese Calcio,14,2,0,1,4,0,0,2,4,IT
+Illan Meslier,€22.00m,346,22,France,Leeds United,16,0,0,0,0,0,0,0,0,FR
+Pepê,€22.00m,347,25,Brazil,FC Porto,21,2,0,5,1,0,0,1,10,BR
+Luis Sinisterra,€22.00m,348,23,Colombia,Leeds United,12,6,0,1,1,1,0,5,6,CO
+David Neres,€22.00m,349,25,Brazil,SL Benfica,20,7,0,8,3,0,0,3,14,BR
+Nathan Collins,€22.00m,350,21,Ireland,Wolverhampton Wanderers,21,1,0,1,2,0,1,0,0,IE
+Curtis Jones,€22.00m,351,21,England,Liverpool FC,7,0,0,0,0,0,0,5,1,GB
+Matty Cash,€22.00m,352,25,Poland,Aston Villa,17,1,0,0,3,0,0,3,4,PL
+Ezri Konsa,€22.00m,353,25,England,Aston Villa,16,0,0,0,2,0,0,1,1,GB
+Ismaïla Sarr,€22.00m,354,24,Senegal,Watford FC,18,6,0,3,0,0,0,1,10,SN
+Vitaliy Mykolenko,€22.00m,355,23,Ukraine,Everton FC,20,1,0,0,3,0,0,1,2,UA
+Davide Frattesi,€22.00m,356,23,Italy,US Sassuolo,20,4,0,0,2,0,0,1,13,IT
+Ryan Sessegnon,€22.00m,357,22,England,Tottenham Hotspur,18,2,0,0,4,0,0,6,7,GB
+Hamed Junior Traorè,€22.00m,358,22,Cote d'Ivoire,US Sassuolo,6,0,0,1,0,0,0,4,2,0
+Lovro Majer,€22.00m,359,24,Croatia,Stade Rennais FC,25,3,0,4,3,0,0,10,12,HR
+Giovani Lo Celso,€22.00m,360,26,Argentina,Villarreal CF,15,1,0,1,2,0,0,3,10,AR
+Ché Adams,€22.00m,361,26,Scotland,Southampton FC,21,7,0,2,1,0,0,3,9,0
+Sean Longstaff,€22.00m,362,25,England,Newcastle United,17,1,0,2,2,0,0,4,1,GB
+Trevoh Chalobah,€22.00m,363,23,England,Chelsea FC,14,0,1,0,2,0,0,1,1,GB
+Nicolas Pépé,€22.00m,364,27,Cote d'Ivoire,OGC Nice,19,6,0,2,0,0,0,3,10,0
+Rico Henry,€22.00m,365,25,England,Brentford FC,16,0,0,1,0,0,0,0,2,GB
+Tyrell Malacia,€22.00m,366,23,Netherlands,Manchester United,18,0,0,1,2,0,0,4,4,NL
+Malcom,€22.00m,367,25,Brazil,Zenit St. Petersburg,22,15,0,7,2,0,0,2,13,BR
+Caglar Söyüncü,€22.00m,368,26,Turkey,Leicester City,8,0,0,0,1,0,0,0,4,TR
+Saïd Benrahma,€22.00m,369,27,Algeria,West Ham United,23,4,0,2,0,0,0,10,8,DZ
+Mattia Zaccagni,€22.00m,370,27,Italy,SS Lazio,18,5,0,4,3,0,0,1,10,IT
+Aleksandr Golovin,€22.00m,371,26,Russia,AS Monaco,22,3,0,4,3,0,0,3,15,0
+David Raya,€22.00m,372,27,Spain,Brentford FC,17,0,0,0,0,0,0,1,0,ES
+Dean Henderson,€22.00m,373,25,England,Nottingham Forest,15,0,0,0,2,0,0,0,0,GB
+Gabriel Barbosa,€22.00m,374,26,Brazil,Clube de Regatas do Flamengo,0,0,0,0,0,0,0,0,0,BR
+Thilo Kehrer,€22.00m,375,26,Germany,West Ham United,23,0,1,0,5,0,0,3,0,DE
+Xaver Schlager,€22.00m,376,25,Austria,RB Leipzig,26,2,0,1,2,0,0,3,6,AT
+Adam Webster,€22.00m,377,27,England,Brighton & Hove Albion,14,0,1,0,1,0,0,1,0,GB
+Djibril Sow,€22.00m,378,25,Switzerland,Eintracht Frankfurt,30,2,1,0,6,0,0,3,7,CH
+James Tarkowski,€22.00m,379,30,England,Everton FC,16,0,0,0,2,0,0,1,0,GB
+Leander Dendoncker,€22.00m,380,27,Belgium,Aston Villa,16,1,0,0,0,0,0,7,4,BE
+Lucas Digne,€22.00m,381,29,France,Aston Villa,14,2,1,0,2,0,0,2,2,FR
+Weston McKennie,€21.00m,382,24,United States,Juventus FC,19,3,0,1,1,0,0,4,9,US
+Endrick,€20.00m,383,16,Brazil,Sociedade Esportiva Palmeiras,0,0,0,0,0,0,0,0,0,BR
+Mathys Tel,€20.00m,384,17,France,Bayern Munich,17,7,0,2,1,0,0,11,3,FR
+Odilon Kossounou,€20.00m,385,21,Cote d'Ivoire,Bayer 04 Leverkusen,18,0,0,1,1,0,0,6,2,0
+Benjamin Sesko,€20.00m,386,19,Slovenia,Red Bull Salzburg,32,11,0,5,1,0,0,8,16,SI
+João Pedro,€20.00m,387,21,Brazil,Watford FC,17,6,0,2,2,0,0,3,5,BR
+Castello Lukeba,€20.00m,388,19,France,Olympique Lyon,16,1,0,0,2,0,0,1,0,FR
+Éderson,€20.00m,389,23,Brazil,Atalanta BC,13,0,0,0,1,0,0,5,5,BR
+Jean-Clair Todibo,€20.00m,390,22,France,OGC Nice,20,0,0,0,2,1,2,0,0,FR
+Strahinja Pavlovic,€20.00m,391,21,Serbia,Red Bull Salzburg,24,2,0,3,6,1,0,1,4,RS
+Giorgio Scalvini,€20.00m,392,18,Italy,Atalanta BC,15,1,0,0,3,0,0,4,5,IT
+Oihan Sancet,€20.00m,393,22,Spain,Athletic Bilbao,14,3,0,0,2,0,0,1,12,ES
+Fábio Carvalho,€20.00m,394,20,Portugal,Liverpool FC,17,2,0,0,0,0,0,10,5,PT
+Max Kilman,€20.00m,395,25,England,Wolverhampton Wanderers,17,0,0,0,0,0,0,0,0,GB
+Matheus Cunha,€20.00m,396,23,Brazil,Atlético de Madrid,18,0,0,2,3,0,0,16,2,BR
+Yunus Musah,€20.00m,397,19,United States,Valencia CF,12,0,0,2,5,0,0,1,5,US
+Luka Sucic,€20.00m,398,20,Croatia,Red Bull Salzburg,22,0,0,4,5,0,0,5,8,HR
+David Carmo,€20.00m,399,23,Portugal,FC Porto,14,0,0,0,4,0,0,0,1,PT
+Renan Lodi,€20.00m,400,24,Brazil,Nottingham Forest,9,1,0,0,1,0,0,2,3,BR
+Kiernan Dewsbury-Hall,€20.00m,401,24,England,Leicester City,16,1,0,2,1,0,0,2,6,GB
+Brennan Johnson,€20.00m,402,21,Wales,Nottingham Forest,21,4,0,1,3,0,0,4,5,0
+Maxence Lacroix,€20.00m,403,22,France,VfL Wolfsburg,11,1,0,0,0,0,0,1,3,FR
+Andreas Skov Olsen,€20.00m,404,22,Denmark,Club Brugge KV,27,10,0,4,3,0,0,5,17,DK
+Pedro,€20.00m,405,25,Brazil,Clube de Regatas do Flamengo,1,1,0,0,0,0,0,1,0,BR
+Caio Henrique,€20.00m,406,25,Brazil,AS Monaco,20,1,1,6,2,0,0,2,3,BR
+Nikola Milenković,€20.00m,407,25,Serbia,ACF Fiorentina,21,2,1,1,3,0,0,3,2,RS
+Francisco Trincão,€20.00m,408,22,Portugal,Sporting CP,20,5,0,1,1,0,0,3,10,PT
+Pascal Struijk,€20.00m,409,23,Netherlands,Leeds United,14,1,0,1,2,0,0,1,1,NL
+Ademola Lookman,€20.00m,410,25,Nigeria,Atalanta BC,17,7,0,3,1,0,0,5,11,NG
+Nicolas Seiwald,€20.00m,411,21,Austria,Red Bull Salzburg,30,1,0,2,2,0,0,3,5,AT
+Samuel Chukwueze,€20.00m,412,23,Nigeria,Villarreal CF,22,5,0,6,2,0,0,9,8,NG
+Houssem Aouar,€20.00m,413,24,France,Olympique Lyon,6,1,0,0,2,0,0,0,6,FR
+Arthur Theate,€20.00m,414,22,Belgium,Stade Rennais FC,22,2,1,0,5,0,0,0,1,BE
+Patson Daka,€20.00m,415,24,Zambia,Leicester City,16,3,0,2,2,0,0,7,7,ZM
+Moise Kean,€20.00m,416,22,Italy,Juventus FC,18,5,0,0,2,0,0,11,7,IT
+Pervis Estupiñán,€20.00m,417,24,Ecuador,Brighton & Hove Albion,13,0,0,1,4,0,0,4,7,EC
+Nordi Mukiele,€20.00m,418,25,France,Paris Saint-Germain,17,0,0,1,0,0,0,10,1,FR
+Denis Zakaria,€20.00m,419,26,Switzerland,Chelsea FC,7,1,0,0,1,0,0,3,2,CH
+Donyell Malen,€20.00m,420,23,Netherlands,Borussia Dortmund,17,1,0,3,1,0,0,4,12,NL
+Christoph Baumgartner,€20.00m,421,23,Austria,TSG 1899 Hoffenheim,22,5,0,3,3,0,0,3,14,AT
+Andrea Pinamonti,€20.00m,422,23,Italy,US Sassuolo,16,3,0,0,2,0,0,2,7,IT
+Brahim Díaz,€20.00m,423,23,Spain,AC Milan,17,4,0,1,3,0,0,5,12,ES
+Mehdi Taremi,€20.00m,424,30,Iran,FC Porto,22,14,0,8,4,1,0,1,11,0
+Naby Keïta,€20.00m,425,27,Guinea,Liverpool FC,1,0,0,0,0,0,0,1,0,GN
+David García,€20.00m,426,28,Spain,CA Osasuna,12,1,0,0,6,0,1,0,2,ES
+Taiwo Awoniyi,€20.00m,427,25,Nigeria,Nottingham Forest,16,3,0,0,0,0,0,9,7,NG
+Nikola Vlasic,€20.00m,428,25,Croatia,Torino FC,23,4,0,4,1,0,0,6,5,HR
+Borna Sosa,€20.00m,429,24,Croatia,VfB Stuttgart,16,1,0,8,4,0,0,3,5,HR
+Jonathan Bamba,€20.00m,430,26,France,LOSC Lille,15,4,0,3,3,0,0,1,3,FR
+Wout Faes,€20.00m,431,24,Belgium,Leicester City,14,0,1,0,3,0,0,1,1,BE
+Demarai Gray,€20.00m,432,26,England,Everton FC,17,3,0,0,1,0,0,1,7,GB
+Donny van de Beek,€20.00m,433,25,Netherlands,Manchester United,7,0,0,0,0,0,0,4,3,NL
+Ramy Bensebaini,€20.00m,434,27,Algeria,Borussia Mönchengladbach,19,6,1,0,3,1,0,1,4,DZ
+Sergio Reguilón,€20.00m,435,25,Spain,Atlético de Madrid,1,0,0,0,0,0,0,1,0,ES
+Florian Neuhaus,€20.00m,436,25,Germany,Borussia Mönchengladbach,7,1,0,0,0,0,0,0,3,DE
+Angeliño,€20.00m,437,25,Spain,TSG 1899 Hoffenheim,15,1,0,4,1,0,0,1,2,ES
+Miguel Almirón,€20.00m,438,28,Paraguay,Newcastle United,19,8,0,1,0,0,0,1,11,PY
+Ricardo Horta,€20.00m,439,28,Portugal,SC Braga,26,8,0,6,3,0,0,5,4,PT
+Wilmar Barrios,€20.00m,440,29,Colombia,Zenit St. Petersburg,20,2,0,2,4,0,0,0,5,CO
+Daniel Podence,€20.00m,441,27,Portugal,Wolverhampton Wanderers,17,2,0,1,3,0,0,5,4,PT
+Breel Embolo,€20.00m,442,25,Switzerland,AS Monaco,30,10,0,4,4,0,0,9,13,CH
+Joaquín Correa,€20.00m,443,28,Argentina,Inter Milan,20,4,0,3,1,0,0,14,6,AR
+Philipp Lienhart,€20.00m,444,26,Austria,SC Freiburg,23,0,0,0,2,0,0,1,2,AT
+Bryan Cristante,€20.00m,445,27,Italy,AS Roma,27,1,0,2,6,0,0,2,7,IT
+Jonathan Tah,€20.00m,446,26,Germany,Bayer 04 Leverkusen,22,1,0,0,5,0,0,3,2,DE
+Álex Moreno,€20.00m,447,29,Spain,Real Betis Balompié,17,0,0,3,1,0,0,4,0,ES
+Alejandro Grimaldo,€20.00m,448,27,Spain,SL Benfica,24,3,0,5,4,0,0,0,5,ES
+Ben Davies,€20.00m,449,29,Wales,Tottenham Hotspur,20,2,0,1,1,0,0,3,3,0
+Nico Elvedi,€20.00m,450,26,Switzerland,Borussia Mönchengladbach,20,2,0,0,2,0,0,1,1,CH
+Fred,€20.00m,451,29,Brazil,Manchester United,17,1,0,0,3,0,0,9,5,BR
+Raphaël Guerreiro,€20.00m,452,28,Portugal,Borussia Dortmund,21,3,0,4,2,0,0,2,7,PT
+Memphis Depay,€20.00m,453,28,Netherlands,FC Barcelona,7,4,0,1,0,0,0,2,3,NL
+Matteo Politano,€20.00m,454,29,Italy,SSC Napoli,22,4,0,4,3,0,0,8,14,IT
+Wissam Ben Yedder,€20.00m,455,32,France,AS Monaco,22,10,0,3,1,0,0,2,13,FR
+Geoffrey Kondogbia,€20.00m,456,29,Central African Republic,Atlético de Madrid,14,0,0,1,5,0,0,4,4,CF
+Matthias Ginter,€20.00m,457,28,Germany,SC Freiburg,24,3,0,4,3,0,0,1,1,DE
+Marcel Sabitzer,€20.00m,458,28,Austria,Bayern Munich,30,2,0,3,7,0,0,13,8,AT
+Pablo Sarabia,€20.00m,459,30,Spain,Paris Saint-Germain,23,2,0,1,3,0,0,12,10,ES
+Sergio Canales,€20.00m,460,31,Spain,Real Betis Balompié,17,3,0,0,2,1,0,4,5,ES
+Toni Kroos,€20.00m,461,32,Germany,Real Madrid,18,1,0,4,1,1,0,2,7,DE
+Cristiano Ronaldo,€20.00m,462,37,Portugal,Manchester United,21,5,0,4,4,0,0,7,2,PT
+Wendel,€19.00m,463,25,Brazil,Zenit St. Petersburg,21,8,0,3,2,0,0,2,13,BR
+Giorgian de Arrascaeta,€19.00m,464,28,Uruguay,Clube de Regatas do Flamengo,2,0,0,0,0,0,0,2,0,UY
+Vanderson,€18.00m,465,21,Brazil,AS Monaco,22,0,0,2,2,1,0,6,8,BR
+Kamaldeen Sulemana,€18.00m,466,20,Ghana,Stade Rennais FC,16,1,0,3,2,0,0,11,4,GH
+Elye Wahi,€18.00m,467,19,France,Montpellier HSC,16,7,0,1,4,0,0,2,8,FR
+Rayan Cherki,€18.00m,468,19,France,Olympique Lyon,14,0,0,5,1,0,0,13,1,FR
+Aaron Hickey,€18.00m,469,20,Scotland,Brentford FC,13,0,0,0,5,0,0,3,7,0
+Dwight McNeil,€18.00m,470,22,England,Everton FC,17,2,0,0,2,0,0,8,6,GB
+Sofiane Diop,€18.00m,471,22,France,OGC Nice,17,2,0,3,0,0,0,7,7,FR
+Xavi Simons,€18.00m,472,19,Netherlands,PSV Eindhoven,24,10,0,4,4,0,0,3,13,NL
+Mohammed Salisu,€18.00m,473,23,Ghana,Southampton FC,18,1,1,1,4,0,0,1,2,GH
+Nuno Tavares,€18.00m,474,22,Portugal,Olympique Marseille,21,3,0,1,5,0,0,3,5,PT
+Neco Williams,€18.00m,475,21,Wales,Nottingham Forest,20,0,0,0,4,0,0,5,3,0
+Jérémy Doku,€18.00m,476,20,Belgium,Stade Rennais FC,13,0,0,2,0,0,0,11,2,BE
+Aaron Wan-Bissaka,€18.00m,477,24,England,Manchester United,1,0,0,0,0,0,0,1,0,GB
+Manuel Ugarte,€18.00m,478,21,Uruguay,Sporting CP,21,0,0,0,7,0,0,5,9,UY
+Max Aarons,€18.00m,479,22,England,Norwich City,24,1,0,0,4,0,0,4,3,GB
+Armel Bella-Kotchap,€18.00m,480,20,Germany,Southampton FC,13,0,0,1,1,0,0,2,3,DE
+Eric García,€18.00m,481,21,Spain,FC Barcelona,17,1,0,1,2,0,0,3,4,ES
+Calvin Bassey,€18.00m,482,22,Nigeria,Ajax Amsterdam,21,1,0,4,2,0,1,1,2,NG
+Nahuel Molina,€18.00m,483,24,Argentina,Atlético de Madrid,21,0,0,0,2,0,1,2,4,AR
+Claudinho,€18.00m,484,25,Brazil,Zenit St. Petersburg,18,3,0,8,0,1,0,4,9,BR
+Manor Solomon,€18.00m,485,23,Israel,Fulham FC,4,2,0,1,0,0,0,1,1,IL
+Tommaso Pobega,€18.00m,486,23,Italy,AC Milan,18,1,0,0,2,0,0,13,3,IT
+Josip Sutalo,€18.00m,487,22,Croatia,GNK Dinamo Zagreb,19,1,0,0,2,0,0,1,2,HR
+Sasa Kalajdzic,€18.00m,488,25,Austria,Wolverhampton Wanderers,6,0,0,3,1,0,0,0,5,AT
+Arthur Melo,€18.00m,489,26,Brazil,Liverpool FC,3,0,0,0,1,0,0,1,1,BR
+Alfonso Pedraza,€18.00m,490,26,Spain,Villarreal CF,12,1,0,2,1,0,0,0,5,ES
+Ben Godfrey,€18.00m,491,24,England,Everton FC,1,0,0,0,0,0,0,0,1,GB
+Gerson,€18.00m,492,25,Brazil,Olympique Marseille,13,2,0,0,1,0,0,5,8,BR
+Eddie Nketiah,€18.00m,493,23,England,Arsenal FC,19,3,0,1,0,0,0,12,2,GB
+Konstantinos Tsimikas,€18.00m,494,26,Greece,Liverpool FC,22,0,0,5,1,0,0,7,4,GR
+Umar Sadiq,€18.00m,495,25,Nigeria,Real Sociedad,6,3,0,0,1,0,0,1,4,NG
+Robin Koch,€18.00m,496,26,Germany,Leeds United,15,0,1,0,3,0,0,1,1,DE
+Philip Billing,€18.00m,497,26,Denmark,AFC Bournemouth,16,4,0,1,1,0,0,3,10,DK
+Lukas Nmecha,€18.00m,498,23,Germany,VfL Wolfsburg,17,4,0,2,3,0,0,5,6,DE
+Moussa Niakhaté,€18.00m,499,26,Senegal,Nottingham Forest,2,0,0,0,0,0,0,0,2,SN
+Yerry Mina,€18.00m,500,28,Colombia,Everton FC,2,0,0,0,2,0,0,0,1,CO
