@@ -36,38 +36,72 @@ with tab1:
 
     coll1.image(link1,caption=df['countries'][index1])
     coll3.image(link2,caption=df['countries'][index2])
-    
+     
     col_1, col_2, col_3= st.columns([2,2,1])
     
     
-    col1, col2, col3, col4, col5= st.columns(5)
+    col1, col2, col3 = st.columns(3)
 
-    col3.subheader("Price")
-    col2.subheader(df['prices'][index1])
-    col4.subheader(df['prices'][index2])
+    
+
+    
+    col1.markdown("<h6 style='text-align: center; color: #606A74;'>"+df['clubs'][index1]+"</h6>", unsafe_allow_html=True)
+    col2.markdown("<h6 style='text-align: center; color: #606A74;'>Club</h6>", unsafe_allow_html=True)
+    col3.markdown("<h6 style='text-align: center; color: #606A74;'>"+df['clubs'][index2]+"</h6>", unsafe_allow_html=True)
+    
+    #col3.subheader("Price")
+    #col2.subheader(df['prices'][index1])
+    #col4.subheader(df['prices'][index2])
+    
+    col1.markdown("<h3 style='text-align: center; color: #414b56;'><b>"+df['prices'][index1]+"</b></h3>", unsafe_allow_html=True)
+    col2.markdown("<h3 style='text-align: center; color: #414b56;'>Price</h3>", unsafe_allow_html=True)
+    col3.markdown("<h3 style='text-align: center; color: #414b56;'><b>"+df['prices'][index2]+"</b></h3>", unsafe_allow_html=True)
+    
 
 
     
-    col3.subheader("Goals")
-    col2.subheader(df['goals'][index1])
-    col4.subheader(df['goals'][index2])
+   
     
     
     gc1=df['goals'][index1]+df['assists'][index1]
     gc2=df['goals'][index2]+df['assists'][index2] 
     
-    col3.write("Goal contribution")
-    col2.write(str(gc1))
-    col4.write(str(gc2))
+    #col3.write("Goal contribution")
+    #col2.write(str(gc1))
+    #col4.write(str(gc2))
 
+    col1.markdown("<h4 style='text-align: center; color: #414b56;'><b>"+str(gc1)+"</b></h4>", unsafe_allow_html=True)
+    col2.markdown("<h4 style='text-align: center; color: #414b56;'>Goal contribution</h4>", unsafe_allow_html=True)
+    col3.markdown("<h4 style='text-align: center; color: #414b56;'><b>"+str(gc2)+"</b></h4>", unsafe_allow_html=True)
     
-    col3.write("Games")
-    col2.write(str(df['current_matches'][index1]))
-    col4.write(str(df['current_matches'][index2]))
     
-    col3.write("Ranked at")
-    col2.write(str(df['ranks'][index1]))
-    col4.write(str(df['ranks'][index2]))
+     #col3.subheader("Goals")
+    #col2.subheader(df['goals'][index1])
+    #col4.subheader(df['goals'][index2])
+    
+    col1.markdown("<h4 style='text-align: center; color: #606A74;'><b>"+str(df['goals'][index1])+"</b></h4>", unsafe_allow_html=True)
+    col2.markdown("<h4 style='text-align: center; color: #606A74;'>Goals</h4>", unsafe_allow_html=True)
+    col3.markdown("<h4 style='text-align: center; color: #606A74;'><b>"+str(df['goals'][index2])+"</b></h4>", unsafe_allow_html=True)
+    
+    
+    #col3.write("Games")
+    #col2.write(str(df['current_matches'][index1]))
+    #col4.write(str(df['current_matches'][index2]))
+    
+    
+    col1.markdown("<h6 style='text-align: center; color: #606A74;'><b>"+str(df['current_matches'][index1])+"</b></h6>", unsafe_allow_html=True)
+    col2.markdown("<h6 style='text-align: center; color: #606A74;'>Games</h6>", unsafe_allow_html=True)
+    col3.markdown("<h6 style='text-align: center; color: #606A74;'><b>"+str(df['current_matches'][index2])+"</b></h6>", unsafe_allow_html=True)
+    
+    
+    #col3.write("Ranked at")
+    #col2.write(str(df['ranks'][index1]))
+    #col4.write(str(df['ranks'][index2]))
+    
+    col1.markdown("<h5 style='text-align: center; color: #606A74;'><b>"+str(df['ranks'][index1])+"</b></h5>", unsafe_allow_html=True)
+    col2.markdown("<h5 style='text-align: center; color: #606A74;'>Ranked at</h5>", unsafe_allow_html=True)
+    col3.markdown("<h5 style='text-align: center; color: #606A74;'><b>"+str(df['ranks'][index2])+"</b></h5>", unsafe_allow_html=True)
+    
     
 
 
@@ -78,20 +112,24 @@ with tab1:
         p_per_gc1=float(p1)/gc1
         formatted_float1 = "{:.2f}".format(p_per_gc1/100)
         
-        col2.subheader("€"+str(formatted_float1)+"m")
+        #col2.subheader("€"+str(formatted_float1)+"m")
+        col1.markdown("<h4 style='text-align: center; color: #414b56;'><b>"+"€"+str(formatted_float1)+"m"+"</b></h4>", unsafe_allow_html=True)
     else:
-        col2.subheader("No Goal contribution")
+        #col2.subheader("No Goal contribution")
+        col1.markdown("<h4 style='text-align: center; color: #414b56;'><b>No goal contribution</b></h4>", unsafe_allow_html=True)
         
     if gc2!=0:
         p_per_gc2=float(p2)/gc2
         formatted_float2 = "{:.2f}".format(p_per_gc2/100)
         
-        col4.subheader("€"+str(formatted_float2)+"m")
-        
+        #col4.subheader("€"+str(formatted_float2)+"m")
+        col3.markdown("<h4 style='text-align: center; color: #414b56;'><b>"+"€"+str(formatted_float2)+"m"+"</b></h4>", unsafe_allow_html=True)
     else:
-        col4.subheader("No Goal contribution")
-            
-    col3.write("Price per Goal contributions")
+        #col4.subheader("No Goal contribution")
+        col3.markdown("<h4 style='text-align: center; color: #414b56;'><b>No goal contribution</b></h4>", unsafe_allow_html=True)
+        
+    #col3.write("Price per Goal contributions")
+    col2.markdown("<h5 style='text-align: center; color: #414b56;'>Price per goal contributions</h5>", unsafe_allow_html=True)
     
     
     
