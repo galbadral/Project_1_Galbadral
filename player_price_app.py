@@ -29,13 +29,13 @@ with tab1:
         if df['names'][i]== option2:
             index2=i
 
-    link1= 'https://countryflagsapi.com/png/'+df['code'][index1]
-    link2='https://countryflagsapi.com/png/'+df['code'][index2]
+    link1= 'https://flagicons.lipis.dev/flags/4x3/'+df['code'][index1].lower()+'.svg'
+    link2='https://flagicons.lipis.dev/flags/4x3/'+df['code'][index2].lower()+'.svg'
 
     coll2.image("VS.jpg")
 
-    coll1.image(link1,caption=df['countries'][index1])
-    coll3.image(link2,caption=df['countries'][index2])
+    coll1.image(link1,caption=df['countries'][index1],use_column_width='always')
+    coll3.image(link2,caption=df['countries'][index2],use_column_width='always')
      
     col_1, col_2, col_3= st.columns([2,2,1])
     
@@ -164,13 +164,13 @@ with tab2:
         if df['countries'][i]== option2:
             index2=i
 
-    link1= 'https://countryflagsapi.com/png/'+df['code'][index1]
-    link2='https://countryflagsapi.com/png/'+df['code'][index2]
+    link1= 'https://flagicons.lipis.dev/flags/4x3/'+df['code'][index1].lower()+'.svg'
+    link2= 'https://flagicons.lipis.dev/flags/4x3/'+df['code'][index2].lower()+'.svg'
 
     coll2.image("VS.jpg")
 
-    coll1.image(link1,caption=df['countries'][index1])
-    coll3.image(link2,caption=df['countries'][index2])
+    coll1.image(link1,caption=df['countries'][index1],use_column_width='always')
+    coll3.image(link2,caption=df['countries'][index2],use_column_width='always')
     
     col_1, col_2, col_3= st.columns([2,2,1])
     
